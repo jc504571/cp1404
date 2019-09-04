@@ -10,13 +10,13 @@ numbers[3:4]
 "3" in numbers
 numbers + [6, 5, 3]
 
-Write Python expressions (in your Python file) to achieve the following:
+#Write Python expressions (in your Python file) to achieve the following:
 
-Change the first element of numbers to "ten"
+#Change the first element of numbers to "ten"
 numbers [0] = 10
-Change the last element of numbers to 1
+#Change the last element of numbers to 1
 numbers [-1] = 1
-Get all the elements from numbers except the first two
+#Get all the elements from numbers except the first two
 numbers[2:]
-Check if 9 is an element of numbers
+#Check if 9 is an element of numbers
 9 in numbers
